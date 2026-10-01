@@ -416,7 +416,7 @@ border-radius: 5px !important;  }
 .inner-table .right {
 background: linear-gradient(180deg, rgba(15, 48, 110, 0.40) 0%, rgba(46, 78, 99, 0.40) 100%) !important;
 border-radius: 5px !important; 
-color: #eecdcf !important; } 
+color: #cde0ee !important; } 
 
 .right_odd {
 background: none !important; }
@@ -608,7 +608,7 @@ Credit may not be removed! */
 .member-online {
  display: inline-block;
  box-sizing: border-box;
- content: url('https://i.postimg.cc/1t6vkxn4/image.png');
+ content: url('https://i.postimg.cc/SxC6PgF0/image.png');
  width: 20px !important;
  height: 20px !important;
  animation: Pulse 2.5s infinite ease-in-out; }
